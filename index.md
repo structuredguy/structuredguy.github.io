@@ -1,4 +1,4 @@
-# [Tomas Gonzalez Llarena / structuredguy]
+# Tomas Gonzalez Llarena / structuredguy
 
 Currently pursuing a degree in Technical Architecture.
 
